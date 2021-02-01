@@ -1,4 +1,4 @@
-**Privacy Policy**
+**Privacy Policy for Smart Games Arena app**
 
 Russian IT Mafia built the Smart Games Arena app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Russian IT Mafia at no cost and is intended for use as is.
 
